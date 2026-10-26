@@ -115,14 +115,14 @@ const PRODUCTS = [
   },
   {
     id: '11',
-    title: 'SUNFLOWER CANDLE',
+    title: 'DAISY CANDLE',
     price: 60,
     category: 'floral',
     tag: 'Bright Floral',
     image: 'images/thumbs/11.jpg',
     fullImage: 'images/thumbs/11.jpg',
-    description: 'A bright and cheerful sunflower-shaped piece that adds a refreshing splash of nature-inspired beauty to your day.',
-    specs: 'Sunflower Sculpted Form | Fresh Floral Scent | Table Accent'
+    description: 'A bright and cheerful daisy-shaped piece that adds a refreshing splash of nature-inspired beauty to your day.',
+    specs: 'daisy Sculpted Form | Fresh Floral Scent | Table Accent'
   },
   {
     id: '12',
@@ -149,7 +149,7 @@ const PRODUCTS = [
   {
     id: '14',
     title: 'SNOWFLAKES CANDLE',
-    price: 220,
+    price: 240,
     category: 'seasonal',
     tag: 'Winter Serenity',
     image: 'images/thumbs/14.jpg',
@@ -181,8 +181,8 @@ const PRODUCTS = [
   },
   {
     id: '17',
-    title: 'WAX MELTS (100G)',
-    price: 100,
+    title: 'WAX MELTS (50G)',
+    price: 160,
     category: 'melts',
     tag: 'Flame-Free Aroma',
     image: 'images/thumbs/17.jpg',
